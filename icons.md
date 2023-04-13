@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,eclipse,maven,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,eclipse,maven,git,github,php,php,php" />
   </a>
 </p>
 
