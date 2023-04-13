@@ -34,3 +34,9 @@
     <img src="https://skillicons.dev/icons?i=js,sass,figma,xd,docker" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,django,dart,bootstrap,arduino,flask,flutter,github,graphql,go,julia,linux,materialui,mongodb,mysql,netlify,php,powershell,py,qt,raspberrypi,solidity,stackoverflow,tailwind,ts,tensorflow,vscode,bash,cs,codepen,dotnet,visualstudio" />
+  </a>
+</p>
